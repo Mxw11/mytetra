@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="База знаний по системе">
+   <node crypt="" id="1581011543t4b4np6byw" name="Размер МРП">
+    <recordtable>
+     <record id="158102145368703889hh" name="Размер МРП и суммы по МРП" author="" url="" tags="МРП, лимиты" ctime="20200207023733" dir="1581021453pk0wfcbk57" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15810242833b02jk1huv" name="Какие карты можно использовать в Wooppay">
+    <recordtable>
+     <record id="1581024682l38m6nru04" name="Пополнение и оплата с карты" author="" url="" tags="Пополнение, оплата, карта, лимиты, лимит" ctime="20200207033122" dir="15810246820ga3yauhd4" file="text.html"/>
+     <record id="1581369832m4yc8ia9s8" name="123" author="" url="" tags="" ctime="20200211032352" dir="1581369832hb60ikrrjw" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
